@@ -9,3 +9,4 @@
 
 [![mike.trueh@gmail.com](https://img.shields.io/badge/mike.trueh@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:mike.trueh@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-kr/)
+[![telegram](https://img.shields.io/badge/telegram%20-%230077B5.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/mike_krz)
